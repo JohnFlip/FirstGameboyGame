@@ -1,5 +1,6 @@
 FirstGameboyGame
 ================
+Updating as proof for LIGO sys admin job posting Phillip Marr 2021
 
 First attempt at teaching myself z80 assembler language, using memory mapped hardware, and creating a working game for the Nintendo Gameboy. I would ask anyone who takes a look at this to bare in mind that the learning of the z80 assembley langauge and creation of the game was done in under 30 days as a final project for my Microprocessors class (EE 3752 at Louisiana State University). 
 
